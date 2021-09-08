@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 - Data Engineering 
 - ML Engineering
 - WEB/DB 
-- Programming Language
-![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColar=white)
-![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColar=white)
-
+<p> Programming Language : 
+ <img src="http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</p>
 ### 📫 Email
 jihun.jeong219@gmail.com
