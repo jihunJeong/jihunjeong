@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jihunJeong/jihunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple)
