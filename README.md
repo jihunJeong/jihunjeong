@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple)
+![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple)
