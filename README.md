@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 - 한양대학교 졸업프로젝트, Da, GO Mall (2021.03 ~ present)
 - FreshFood, IOS 앱 개발 (2020.03 ~ 2020.06)
 
+### 🏆 Competition
+- 기상청 앱 개선방안 제안 공모전 기능 분야, 본선 진출 (2020.09 ~ 2020.10)
+- UCPC (전국 대학생 프로그랭밍 대회), 본선 진출 (2020.07)
+
 ### 🛠 Tech Stack
 - Data Engineering 
 - ML Engineering
 - WEB/DB 
-<p> Programming Language : 
- <img src="http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-</p>
-### 📫 Email
-jihun.jeong219@gmail.com
+- Programming Language : 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
