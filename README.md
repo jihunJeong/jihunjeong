@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple&hide=jupyter%20notebook)
 
 ### 🏃‍♂️ Experience
 - 한양대학교 AILab, 학부 인턴 (2021.06 ~ present)
