@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 기상청 앱 개선방안 제안 공모전 기능 분야, 본선 진출 (2020.09 ~ 2020.10)
 - UCPC (전국 대학생 프로그랭밍 대회), 본선 진출 (2020.07)
 
-### 🛠 Tech Stack
+### 🛠 I'm interested in
 - Data Engineering :
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Programming Language : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-- Also Interesting :
+- Web Full Stack Engineering :
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
