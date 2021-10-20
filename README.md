@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 💻 Project
 - 논문, LSH by using KoBERT Tokenizer (2021.09 ~ present)
-- 한양대학교 졸업프로젝트, Da, GO Mall (2021.03 ~ present)
+- 한양대학교 졸업프로젝트, Da, GO Mall (2021.03 ~ 2021.10)
 - FreshFood, IOS 앱 개발 (2020.03 ~ 2020.06)
 
 ### 🏆 Competition
