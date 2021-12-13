@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihunJeong&hide=stars&count_private=true&show_icons=true&theme=discord_old_blurple&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihunJeong&layout=compact&theme=discord_old_blurple&hide=jupyter%20notebook)
 
-### 🏃‍♂️ Experience
+### 🔭 Work 
 - 한양대학교 AILab, 학부 인턴 (2021.06 ~ present)
+
+### 🏃‍♂️ Experience
+- KT AI One Team 참여 연구실, 연구원 (2021.09 ~ present)
 - 네이버 부스트캠프 AI Tech, 1기 멤버 (2021.01 ~ 2021.06)
 - 학부 과제 Kaggle Competition 운영 (2021.03 ~ 2021.06)
 - 한양대학교 학습 멘토링 프로그램, 멘토 (2017.03 ~ 2017.06)
